@@ -4,4 +4,4 @@ Qt desktop application with SQLite3 database. It enables to add, show, edit and 
 
 ===============================================================================
 
-Aplikacja desktopowa w Qt z bazą danych SQLite3. Pozwala na dodawanie, wyświetlanie, edycją oraz usuwanie kontaktów i spotkań. Każdy kontakt może zostać przypisany do konkretnych zadań.
+Aplikacja desktopowa w Qt z lokalną bazą danych SQLite3. Pozwala na dodawanie, wyświetlanie, edycją oraz usuwanie kontaktów i spotkań. Każdy kontakt może zostać przypisany do konkretnych zadań.
